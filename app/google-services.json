@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "886187995884",
+    "firebase_url": "https://api-configuration.firebaseio.com",
+    "project_id": "api-configuration",
+    "storage_bucket": "api-configuration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886187995884:android:8ae68d5128c7912c",
+        "android_client_info": {
+          "package_name": "com.phanna.app.harmfulapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886187995884-vk7hh44i5j6t57h88b8tleqkq39irg5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31CGB6Z5YKtLbKh2DNizS3lPp8od5eoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
